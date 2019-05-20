@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Prototipo</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="entrar">Entrar</string>
+    <string name="entre_ou_cadastre">Entre com sua conta ou cadastre-se para acessar</string>
+    <string name="fazer_login">Fazer login</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="preencha_todos_os_campos">Preencha todos os campos</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="repita_senha">Repita sua senha</string>
+    <string name="aceito_termos">Eu aceito todos os termos de uso.</string>
+    <string name="novo_projeto">Criar projeto</string>
+    <string name="ver_projetos">Acessar projeto</string>
+    <string name="cnpj">CNPJ</string>
+    <string name="telefone">Telefone</string>
+    <string name="adicionar_membro">Adicionar membro</string>
+    <string name="membros">Membros</string>
+    <string name="acessar_uc">Acessar casos de uso</string>
+    <string name="acessar_requisito">Acessar requisito</string>
+    <string name="visualizar_uc">Visualizar caso de uso</string>
+    <string name="fazer_comentario">Fazer comentário</string>
+    <string name="adicionar_requisito">Adicionar requisito</string>
+    <string name="modificar_requisito">Modificar requisito</string>
+    <string name="apagar_requisito">Apagar requisito</string>
+</resources>

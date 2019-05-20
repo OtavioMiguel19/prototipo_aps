@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="32dp"
+    tools:context=".AcessarUCActivity">
+
+    <Button
+        android:id="@+id/visualizar_uc"
+        style="@style/ButtonDefault"
+        android:text="@string/visualizar_uc" />
+
+    <Button
+        android:id="@+id/fazer_comentario"
+        style="@style/ButtonDefault"
+        android:text="@string/fazer_comentario" />
+
+</LinearLayout>

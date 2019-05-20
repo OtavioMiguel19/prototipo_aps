@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="32dp"
+    tools:context=".VisualizarRequisitoActivity">
+
+    <Button
+        android:id="@+id/adicionar_requisito"
+        style="@style/ButtonDefault"
+        android:text="@string/adicionar_requisito" />
+
+    <Button
+        android:id="@+id/modificar_requisito"
+        style="@style/ButtonDefault"
+        android:text="@string/modificar_requisito" />
+
+    <Button
+        android:id="@+id/apagar_requisito"
+        style="@style/ButtonDefault"
+        android:text="@string/apagar_requisito" />
+
+</LinearLayout>
