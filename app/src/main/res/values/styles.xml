@@ -17,18 +17,20 @@
         <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
     </style>
 
-    <style name="ButtonDefault" parent="Widget.AppCompat.Button" >
+    <style name="ButtonDefault" parent="Widget.MaterialComponents.Button" >
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:background">@color/colorAccent</item>
         <item name="android:textColor">@android:color/white</item>
         <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:textSize">16sp</item>
     </style>
 
-    <style name="ButtonAlternative" parent="Widget.AppCompat.Button.Borderless.Colored" >
+    <style name="ButtonAlternative" parent="Widget.MaterialComponents.Button.OutlinedButton" >
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:textSize">16sp</item>
     </style>
 
 </resources>
