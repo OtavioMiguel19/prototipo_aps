@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Prototipo</string>
+    <string name="app_name">MyProject</string>
     <string name="cadastrar">Cadastrar</string>
     <string name="entrar">Entrar</string>
     <string name="entre_ou_cadastre">Entre com sua conta ou cadastre-se para acessar</string>
